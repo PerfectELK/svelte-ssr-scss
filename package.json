@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "node-sass": "^6.0.0",
-    "svelte": "^3.38.2",
-    "svelte-preprocess": "^4.7.3"
+    "node-sass": "6.0.0",
+    "svelte": "3.38.2",
+    "svelte-preprocess": "4.7.3"
+  },
+  "dependencies": {
+    "node-html-parser": "3.3.0"
   }
 }
